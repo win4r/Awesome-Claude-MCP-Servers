@@ -90,6 +90,7 @@ Track application performance and errors.
 
 ## Development Tools
 
+- [VAP-MCP](https://github.com/elestirelbilinc-sketch/vap-showcase) 🐍 ☁️ - AI media generation (Flux, Veo, Suno) with cost control. Pre-commit pricing, budget enforcement, reserve-burn-refund billing.
 ### Frameworks 🛠️
 Tools for building and extending MCP capabilities.
 
