@@ -70,6 +70,7 @@ Interact with cloud infrastructure services.
 Integrate with team communication platforms.
 
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📱 ☁️ - Slack workspace and channel management
+- [anipotts/imessage-mcp](https://github.com/anipotts/imessage-mcp) 📱 🏠 - 25 read-only tools for searching, analyzing, and exploring iMessage history on macOS
 
 ### Browser Automation 🌐
 Access and process web content programmatically.
