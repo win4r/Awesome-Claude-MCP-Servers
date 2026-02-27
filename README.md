@@ -70,6 +70,7 @@ Interact with cloud infrastructure services.
 Integrate with team communication platforms.
 
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📱 ☁️ - Slack workspace and channel management
+- [commune-sh/commune-mcp](https://github.com/commune-sh/commune-mcp) 📱 ☁️ - Agent email infrastructure — provision inboxes, send/receive email, manage threads, custom domains, structured extraction, and SMS
 
 ### Browser Automation 🌐
 Access and process web content programmatically.
