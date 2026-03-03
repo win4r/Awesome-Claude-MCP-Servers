@@ -82,6 +82,11 @@ Access geographic and mapping data.
 
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📱 ☁️ - Maps integration for location and routing
 
+### DeFi & Blockchain 🪙
+Access DeFi protocols, crypto prices, and on-chain data.
+
+- [OzorOwn/defi-mcp](https://github.com/OzorOwn/defi-mcp) 📱 ☁️ - DeFi toolkit with 12 tools: live crypto prices (500+ tokens), wallet balances, gas tracking, ENS resolution, token analytics, and DeFi protocol data across Ethereum, Base, Arbitrum, and Solana
+
 ### Monitoring 📈
 Track application performance and errors.
 
