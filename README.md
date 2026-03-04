@@ -109,3 +109,8 @@ Specialized tools for specific platforms and use cases.
 
 Want to ask Claude about Model Context Protocol? Add this file to your project:
 [Claude MCP Instructions](https://raw.githubusercontent.com/win4r/Awesome-Claude-MCP-Servers/refs/heads/main/llms-full.txt)
+
+### Directories & Registries 📋
+Tools for discovering and evaluating MCP servers and AI-compatible developer tools.
+
+- [Agent Native Registry](https://agentnativeregistry.com) ☁️ - Remote MCP server scoring 100+ developer tools on AI agent compatibility. Tools: `search_tools`, `get_score`, `compare_tools`. Rates tools across account creation, agent tooling, reliability, discovery, and pricing dimensions.
