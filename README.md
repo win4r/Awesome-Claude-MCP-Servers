@@ -88,6 +88,11 @@ Track application performance and errors.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
 
+### Research & Analysis 🧭
+Use Claude for market intelligence, company evaluation, and investment research workflows.
+
+- [Omnis Venture Intelligence MCP](https://www.bamboosnow.co/venture-intelligence-mcp-server) ☁️ - Venture intelligence for autonomous agents with startup discovery, company scoring, diligence memo access, monitoring, and workspace automation
+
 ## Development Tools
 
 ### Frameworks 🛠️
