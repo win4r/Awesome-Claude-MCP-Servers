@@ -104,6 +104,7 @@ Specialized tools for specific platforms and use cases.
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - Comprehensive MCP feature testing
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
+- [Nyrok/flompt](https://github.com/Nyrok/flompt) 🏠 ☁️ - Visual AI prompt builder that decomposes prompts into 12 semantic blocks and compiles them into Claude-optimized XML. Available as web app, browser extension (Chrome/Firefox), and MCP server
 
 ## Community Resources
 
