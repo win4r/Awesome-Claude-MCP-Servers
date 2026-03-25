@@ -53,6 +53,7 @@ Query and analyze data while maintaining security.
 Maintain context and information across sessions.
 
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📱 🏠 - Knowledge graph-based persistent memory system
+- [Cortex](https://github.com/SKULLFIRE07/cortex-memory) 📱 🏠 - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. Free.
 
 ### Version Control 📊
 Manage code repositories and development workflows.
