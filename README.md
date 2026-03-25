@@ -105,6 +105,7 @@ Specialized tools for specific platforms and use cases.
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
 
+| [SkillFlow](https://github.com/rafsilva85/skillflow-mcp-server) | AI skills marketplace - search, browse, and install 500+ curated skills for coding agents | `npx skillflow-mcp-server` | 🟢 |
 ## Community Resources
 
 Want to ask Claude about Model Context Protocol? Add this file to your project:
