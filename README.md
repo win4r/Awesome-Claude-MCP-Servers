@@ -75,6 +75,7 @@ Integrate with team communication platforms.
 Access and process web content programmatically.
 
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📱 🏠 - Web automation and scraping
+- [safari-mcp](https://github.com/achiya-automation/safari-mcp) 📱 🏠 - Native Safari browser automation for AI agents via AppleScript (80 tools, zero Chrome overhead, macOS only)
 - [@modelcontextprotocol/server-youtube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📱 ☁️ - YouTube subtitle extraction
 
 ### Location Services 🗺️
