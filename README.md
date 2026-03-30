@@ -75,6 +75,7 @@ Integrate with team communication platforms.
 Access and process web content programmatically.
 
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📱 🏠 - Web automation and scraping
+- [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs) 📱 🏠 - Plugin-based MCP server that gives AI agents access to web applications through the user's authenticated browser session. Chrome extension with 100+ plugins for Slack, Discord, GitHub, Reddit, and more.
 - [@modelcontextprotocol/server-youtube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📱 ☁️ - YouTube subtitle extraction
 
 ### Location Services 🗺️
