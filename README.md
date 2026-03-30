@@ -40,6 +40,7 @@ Access real-time web information and specialized search capabilities.
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📱 ☁️ - Web search via Brave's Search API
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📱 ☁️ - Integration with Kagi search engine
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) 🐍 ☁️ - Research paper search through ArXiv
+- [wd041216-bit/cross-validated-search](https://github.com/wd041216-bit/cross-validated-search) 🐍 📱 🏠 - Evidence-aware search, page reading, and claim verification with MCP plus bundled Claude Code skill surfaces.
 
 ### Databases 🗄️
 Query and analyze data while maintaining security.
