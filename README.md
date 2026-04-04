@@ -104,6 +104,10 @@ Specialized tools for specific platforms and use cases.
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - Comprehensive MCP feature testing
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
+- [teamsincetoday/video-commerce-mcp](https://github.com/teamsincetoday/video-commerce-mcp) 📱 🏠 - Extract commercial entities, score monetization opportunities, and discover market gaps from YouTube videos
+- [teamsincetoday/podcast-commerce-mcp](https://github.com/teamsincetoday/podcast-commerce-mcp) 📱 ☁️ - Extract affiliate products, sponsor mentions, and shoppable recommendations from podcast transcripts
+- [teamsincetoday/newsletter-commerce-mcp](https://github.com/teamsincetoday/newsletter-commerce-mcp) 📱 ☁️ - Extract shoppable products and sponsor mentions from email newsletters with confidence scoring
+- [teamsincetoday/recipe-commerce-mcp](https://github.com/teamsincetoday/recipe-commerce-mcp) 📱 ☁️ - Extract cookware and ingredient affiliate opportunities from recipe pages and YouTube cooking videos
 
 ## Community Resources
 
