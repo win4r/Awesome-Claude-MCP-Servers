@@ -104,6 +104,7 @@ Specialized tools for specific platforms and use cases.
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - Comprehensive MCP feature testing
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
+- [zkproofport/proofport-ai](https://github.com/zkproofport/proofport-ai) 📱 ☁️ - Zero-knowledge identity proofs (Coinbase KYC, Country, Google OIDC, Workspace, MS 365) without revealing personal data. AWS Nitro TEE, ERC-8004, x402 USDC on Base.
 
 ## Community Resources
 
