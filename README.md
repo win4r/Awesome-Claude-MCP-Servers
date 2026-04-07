@@ -76,6 +76,7 @@ Access and process web content programmatically.
 
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📱 🏠 - Web automation and scraping
 - [@modelcontextprotocol/server-youtube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📱 ☁️ - YouTube subtitle extraction
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) 🐍 ☁️  🏠 - Browser automation using LLMs and computer vision for navigating pages, filling forms, and extracting data
 
 ### Location Services 🗺️
 Access geographic and mapping data.
