@@ -88,6 +88,11 @@ Track application performance and errors.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
 
+### Media & Creative 🎨
+AI-powered media generation and editing.
+
+- [Photo AI Studio](https://github.com/photo-ai-studio/photo-ai-studio-mcp) 📱 ☁️ - AI photo generation (150+ themes), editing (19 operations), and video creation via [Photo AI Studio](https://photoaistudio.com)
+
 ## Development Tools
 
 ### Frameworks 🛠️
