@@ -88,6 +88,12 @@ Track application performance and errors.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
 
+
+### Data & Business Intelligence 📊
+Access business records, government data, and lead generation tools.
+
+- [avabuildsdata/mcp-us-business-data](https://github.com/avabuildsdata/mcp-us-business-data) 🏃 ☁️ - US business entity search, Secretary of State filings, building permits, and Yellow Pages leads across 17 states
+
 ## Development Tools
 
 ### Frameworks 🛠️
