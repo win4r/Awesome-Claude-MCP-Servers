@@ -105,6 +105,11 @@ Specialized tools for specific platforms and use cases.
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
 
+### Identity & Psychometrics 🆔
+Verified human identity, psychometric assessment, and privacy-preserving inference.
+
+- [true-alter/alter-identity](https://github.com/true-alter/alter-identity) 📱 ☁️ - ALTER Identity: 33-trait psychometric engine delivering verified human identity via MCP. Belonging probability, trait vectors, attunement depth. Remote server at `https://mcp.truealter.com/api/v1/mcp`. Free tier: 16 tools, 10 req/min.
+
 ## Community Resources
 
 Want to ask Claude about Model Context Protocol? Add this file to your project:
