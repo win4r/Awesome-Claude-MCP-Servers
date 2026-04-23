@@ -109,3 +109,5 @@ Specialized tools for specific platforms and use cases.
 
 Want to ask Claude about Model Context Protocol? Add this file to your project:
 [Claude MCP Instructions](https://raw.githubusercontent.com/win4r/Awesome-Claude-MCP-Servers/refs/heads/main/llms-full.txt)
+
+- [google-maps-scraper-mcp](https://github.com/khadinakbaronline/google-maps-scraper-mcp) — Google Maps MCP — scrape B2B leads, emails, phones, ratings and reviews inside any AI agent.
