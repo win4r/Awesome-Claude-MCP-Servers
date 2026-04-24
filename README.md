@@ -105,6 +105,11 @@ Specialized tools for specific platforms and use cases.
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
 
+## Security & Credentials 🔐
+Encrypted vaults and credential management for AI agents.
+
+- [Agnuxo1/EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) 📇 🏠 - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs. Dual-mode: stdio MCP + REST API.
+
 ## Community Resources
 
 Want to ask Claude about Model Context Protocol? Add this file to your project:
