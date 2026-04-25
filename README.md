@@ -88,6 +88,16 @@ Track application performance and errors.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
 
+### Image Generation 🎨
+Generate images and visual assets programmatically.
+
+- [MohamedAbdallah-14/prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) 📱 🏠 - MCP server and CLI that generates production-ready visual assets (app icons, favicons, OG images, logos) by routing requests across 30+ image generation models. Zero API key required for first run via Pollinations, Stable Horde, and HuggingFace free tiers.
+
+### Content Tools 📝
+Analyze and improve AI-generated text output.
+
+- [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) 📱 🏠 - MCP server and CLI that removes named AI writing tells from text: tricolons, em-dash pileups, hedging stacks, sycophancy openers, overused vocab like "delve" and "crucial". Lint-only audit mode included. Five intensity levels.
+
 ## Development Tools
 
 ### Frameworks 🛠️
