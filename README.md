@@ -54,6 +54,11 @@ Maintain context and information across sessions.
 
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📱 🏠 - Knowledge graph-based persistent memory system
 
+### Security & Secrets 🔐
+Encrypt, store, and retrieve sensitive data without leaking it to the cloud.
+
+- [Agnuxo1/enigmagent-mcp](https://github.com/Agnuxo1/enigmagent-mcp) 📱 🏠 - Local encrypted vault for Claude. AES-256-GCM + Argon2id, zero cloud, zero telemetry. `npx enigmagent-mcp`
+
 ### Version Control 📊
 Manage code repositories and development workflows.
 
