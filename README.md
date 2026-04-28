@@ -104,6 +104,7 @@ Specialized tools for specific platforms and use cases.
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - Comprehensive MCP feature testing
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
+- [goofypluto999/cv-mirror-mcp](https://github.com/goofypluto999/cv-mirror-mcp) 🟢 🏠 - Lints a CV (PDF/DOCX) against 5 real ATS parsers (Workday, Greenhouse, Lever, Taleo, iCIMS)
 
 ## Community Resources
 
