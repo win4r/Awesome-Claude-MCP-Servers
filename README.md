@@ -105,6 +105,8 @@ Specialized tools for specific platforms and use cases.
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
 
+- [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Look up and compare LLM API pricing across 138 models from 22 providers. Built-in MCP server for Claude Desktop: tools for cost calculation, model comparison, and budget planning. Zero dependencies.
+
 ## Community Resources
 
 Want to ask Claude about Model Context Protocol? Add this file to your project:
