@@ -96,6 +96,7 @@ Tools for building and extending MCP capabilities.
 - [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📱 - Integration between Genkit and MCP
 - [@modelcontextprotocol/server-langchain](https://github.com/rectalogic/langchain-mcp) 🐍 - LangChain integration for MCP tools
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 🏃 - Go SDK for MCP development
+- [Coding-Dev-Tools/click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) 🐍 🏠 - Automatically convert any Click/Typer CLI into an MCP server
 
 ### Integration Tools 🔧
 Specialized tools for specific platforms and use cases.
