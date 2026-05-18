@@ -60,6 +60,7 @@ Manage code repositories and development workflows.
 - [@modelcontextprotocol/server-github](https://github.com/modelcontextprotocol/servers/tree/main/src/github) 📱 ☁️ - GitHub integration for repos and issues
 - [@modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) 📱 ☁️ - GitLab platform management
 - [@modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) 🐍 🏠 - Direct Git repository operations
+- [crsxmd/rewindex](https://github.com/crsxmd/rewindex) ([rewindex.org](https://rewindex.org)) 🐍 🏠 🍎 🪟 🐧 - Reduces the risk of AI agents breaking your code. Auto-snapshots every file change locally. Rewind sessions, audit code, and inspect diffs from your AI chat or the built-in dashboard. Free, safe, and no coding required.
 
 ### Cloud Integration ☁️
 Interact with cloud infrastructure services.
