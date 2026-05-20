@@ -82,6 +82,13 @@ Access geographic and mapping data.
 
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📱 ☁️ - Maps integration for location and routing
 
+
+### Logistics & Transportation 🚛
+Freight marketplace and electronic consignment note management for logistics and transportation operations.
+
+- [cargoffer/bolsa_de_carga-mcp](https://github.com/cargoffer/bolsa_de_carga-mcp) 📱 🐍 ☁️ - Freight marketplace/load board MCP server. Tools for managing addresses, truckers, vehicles, deliveries, and auctions. Enables AI agents to interact with freight loads, bids, and logistics operations.
+- [cargoffer/ecmr-mcp](https://github.com/cargoffer/ecmr-mcp) 📱 🐍 ☁️ - Electronic Consignment Note (eCMR) MCP server. Tools for managing drivers, vehicles, addresses, digital signatures, eCMR creation, QR codes, and PDF generation.
+
 ### Monitoring 📈
 Track application performance and errors.
 
