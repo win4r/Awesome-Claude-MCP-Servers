@@ -97,6 +97,12 @@ Tools for building and extending MCP capabilities.
 - [@modelcontextprotocol/server-langchain](https://github.com/rectalogic/langchain-mcp) 🐍 - LangChain integration for MCP tools
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 🏃 - Go SDK for MCP development
 
+### Education 📚
+MCP servers for learning and academic workflows.
+
+- [kaorii-ako/Shiori-v1](https://github.com/kaorii-ako/Shiori-v1) 📱 🏠 - AI study companion MCP server. Ask Claude what's due, calculate grades needed, summarize notes, and review flashcards. 6 tools. Google Classroom sync + Gemini AI. [Live Demo](https://shiori-v1.vercel.app)
+
+
 ### Integration Tools 🔧
 Specialized tools for specific platforms and use cases.
 
