@@ -88,6 +88,11 @@ Track application performance and errors.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
 
+### Business & Productivity 💼
+Tools for client work, document generation, and business workflows.
+
+- [bradshawprojects/proposalcraft](https://github.com/bradshawprojects/proposalcraft) 📱 🏠 - Draft winning proposals in your voice from past work — for freelancers and consultants
+
 ## Development Tools
 
 ### Frameworks 🛠️
