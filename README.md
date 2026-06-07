@@ -103,6 +103,7 @@ Specialized tools for specific platforms and use cases.
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - OpenAI models integration
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - Comprehensive MCP feature testing
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
+- [shaqmughal/seekstone](https://github.com/shaqmughal/seekstone) 📱 🏠 - Filesystem-direct Obsidian vault MCP server; reads vault files directly from disk with no Obsidian app or plugins required
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
 
 ## Community Resources
