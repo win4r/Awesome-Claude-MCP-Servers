@@ -105,6 +105,11 @@ Specialized tools for specific platforms and use cases.
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
 
+### Home Automation 🏠
+MCP servers for controlling smart home systems.
+
+- [Fistacho/ha-nexus-agent](https://github.com/Fistacho/ha-nexus-agent) 🐍 🏠 - MCP server for Home Assistant with 285 tools across 27 domains: entities, automations, dashboards, HACS, Supervisor, Card Builder, real-time WebSocket, git versioning. Ships as a one-click HA add-on.
+
 ## Community Resources
 
 Want to ask Claude about Model Context Protocol? Add this file to your project:
