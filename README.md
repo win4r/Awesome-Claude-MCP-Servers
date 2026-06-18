@@ -53,6 +53,7 @@ Query and analyze data while maintaining security.
 Maintain context and information across sessions.
 
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📱 🏠 - Knowledge graph-based persistent memory system
+- [maxbaluev/accreted-intelligence](https://github.com/maxbaluev/accreted-intelligence) 🏠 - Local-first Work Model memory for Claude and coding agents, exposing scored retrieval and outcome-credited actions through `acc_retrieve` and `acc_act`
 
 ### Version Control 📊
 Manage code repositories and development workflows.
