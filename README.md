@@ -87,6 +87,13 @@ Track application performance and errors.
 
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
+- [StatusCraft](https://github.com/jabbawocky/statuscraft) 📱 ☁️ - Live status monitoring for 141 major services (GitHub, AWS, Stripe, OpenAI, etc.) in real time.
+
+### Business & Productivity 💼
+Tools for business workflows and professional productivity.
+
+- [ProposalCraft](https://github.com/jabbawocky/proposalcraft) 📱 🏠 - Drafts client proposals in your voice from your past winning work. Built for freelancers and consultants.
+- [StandupCraft](https://github.com/jabbawocky/standupcraft) 💻 🏠 - Reads git commits and GitHub activity to generate daily standups, weekly client reports, and sprint retros inside Claude Desktop. No API key required.
 
 ## Development Tools
 
