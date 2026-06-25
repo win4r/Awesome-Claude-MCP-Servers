@@ -40,6 +40,7 @@ Access real-time web information and specialized search capabilities.
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📱 ☁️ - Web search via Brave's Search API
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📱 ☁️ - Integration with Kagi search engine
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) 🐍 ☁️ - Research paper search through ArXiv
+- [BuyWhere/buywhere-mcp](https://github.com/BuyWhere/buywhere-mcp) 📱 ☁️ - Real-time product search and price comparison across Singapore and SEA merchants
 - [BuyWhere](https://github.com/BuyWhere/buywhere-mcp) 🏆 📱 ☁️ - Real-time product search and price comparison across 260K+ products from Lazada, Shopee, FairPrice, and other Southeast Asia merchants
 
 ### Databases 🗄️
