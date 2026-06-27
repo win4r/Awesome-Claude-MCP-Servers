@@ -76,6 +76,7 @@ Access and process web content programmatically.
 
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📱 🏠 - Web automation and scraping
 - [@modelcontextprotocol/server-youtube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📱 ☁️ - YouTube subtitle extraction
+- [Reflex](https://reflexmcp.com) 📱 🏠 - Parallel browser automation for any MCP client, on fewer round trips and tokens than Playwright MCP, runs locally
 
 ### Location Services 🗺️
 Access geographic and mapping data.
