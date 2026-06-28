@@ -8,6 +8,7 @@ A curated list of Model Context Protocol (MCP) servers optimized for Claude and 
 - [Getting Started](#getting-started)
 - [Core Servers](#core-servers)
 - [Extended Capabilities](#extended-capabilities)
+  - [Finance & Markets](#finance--markets-)
 - [Development Tools](#development-tools)
 - [Community Resources](#community-resources)
 
@@ -87,6 +88,11 @@ Track application performance and errors.
 
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
+
+### Finance & Markets 💹
+Access SEC filings, market data, and financial risk signals.
+
+- [FilingFirehose](https://filingfirehose.com/mcp) ☁️ - Hosted MCP server exposing SEC EDGAR filings (8-K, 10-K, 10-Q, S-3, 13D), forensic risk scores, and cyber-incident tracking. No install — point your MCP client at `https://filingfirehose.com/mcp`.
 
 ## Development Tools
 
