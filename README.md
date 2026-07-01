@@ -80,6 +80,7 @@ Access and process web content programmatically.
 ### Location Services 🗺️
 Access geographic and mapping data.
 
+- [muend/arcgis-mcp-bridge](https://github.com/muend/arcgis-mcp-bridge) 🐍 🏠 - Secure, local-first MCP server exposing ArcGIS Pro's ArcPy engine over stdio JSON-RPC, with worker-process isolation, PathGuard filesystem boundaries, and controlled geoprocessing execution
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📱 ☁️ - Maps integration for location and routing
 
 ### Monitoring 📈

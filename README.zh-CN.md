@@ -79,6 +79,7 @@
 ### 位置服务 🗺️
 访问地理和地图数据。
 
+- [muend/arcgis-mcp-bridge](https://github.com/muend/arcgis-mcp-bridge) 🐍 🏠 - 安全、本地优先的 MCP 服务器，通过 stdio JSON-RPC 暴露 ArcGIS Pro 的 ArcPy 引擎，支持工作进程隔离、PathGuard 文件系统边界和受控地理处理执行
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📱 ☁️ - 地图集成用于位置和路线规划
 
 ### 监控 📈
