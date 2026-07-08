@@ -53,6 +53,7 @@ Query and analyze data while maintaining security.
 Maintain context and information across sessions.
 
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📱 🏠 - Knowledge graph-based persistent memory system
+- [Data Olympus](https://github.com/knaisoma/data-olympus) 🐍 🏠 - Governance-grade project knowledge server with reviewed rules, proposals, validity windows, and supersession-aware retrieval
 
 ### Version Control 📊
 Manage code repositories and development workflows.
