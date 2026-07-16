@@ -88,6 +88,11 @@ Track application performance and errors.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
 
+### Finance & Data APIs 💰
+Paid crypto and market data APIs with x402 on-chain micropayments for autonomous agents.
+
+- [AgentServices](https://agentservices.to) ☁️ - 50+ x402-paid crypto/market data endpoints with 37 MCP tools. Autonomous per-call payments in USDC on Base. No API key required.
+
 ## Development Tools
 
 ### Frameworks 🛠️
