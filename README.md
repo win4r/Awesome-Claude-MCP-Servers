@@ -103,6 +103,7 @@ Specialized tools for specific platforms and use cases.
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - OpenAI models integration
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - Comprehensive MCP feature testing
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
+- [LazyAgent](https://github.com/hung1597865420/LazyAgent) 🐍 🏠 - MCP control plane for Claude Code, Codex, and Gemini/Antigravity with runtime profiles, lesson memory, review gates, and setup automation
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
 
 ## Community Resources
