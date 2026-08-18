@@ -77,6 +77,11 @@ Access and process web content programmatically.
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📱 🏠 - Web automation and scraping
 - [@modelcontextprotocol/server-youtube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📱 ☁️ - YouTube subtitle extraction
 
+### Creative & Media 🎨
+Compose and process media through local creative tools.
+
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) 📱 🏠 - Source-installable video composition, editing, generation, and assembly through editable timelines
+
 ### Location Services 🗺️
 Access geographic and mapping data.
 
