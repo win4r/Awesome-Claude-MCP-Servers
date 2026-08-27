@@ -105,6 +105,8 @@ Specialized tools for specific platforms and use cases.
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
 
+- [Wagglet](https://wagglet.com/docs/mcp) 🏆 ☁️ - Prepared-task handoff between a human teammate and their own coding agent: bounded reads of tickets, Stories and people plus explicit claim, deliver and review actions. Hosted remote endpoint `https://wagglet.com/api/mcp`
+
 ## Community Resources
 
 Want to ask Claude about Model Context Protocol? Add this file to your project:
