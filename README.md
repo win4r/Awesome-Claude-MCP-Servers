@@ -88,6 +88,12 @@ Track application performance and errors.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
 
+### Finance & Market Data 💹
+
+Access market data, financials, and institutional flows for analysis.
+
+- [Tapetide-hq/nse-bse-indian-stock-market-data-mcp](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) 📱 ☁️ - Indian stock markets (NSE & BSE), ~8,200 stocks across 52 tools: live quotes, fundamental and technical screeners, financials, FII/DII flows, options IV/Greeks, analyst ratings, portfolio tracking, and point-in-time backtest-safe data. Remote MCP or `npx -y tapetide-mcp`
+
 ## Development Tools
 
 ### Frameworks 🛠️
