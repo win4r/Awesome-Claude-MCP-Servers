@@ -53,6 +53,8 @@ Query and analyze data while maintaining security.
 Maintain context and information across sessions.
 
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📱 🏠 - Knowledge graph-based persistent memory system
+- [stonianua/neither-mcp](https://github.com/stonianua/neither-mcp) - Neither MCP — hosted company-context graph via local stdio for Cursor and Claude Desktop (
+px -y @neitherai/mcp-server; needs NEITHER_API_KEY). Start: https://www.neither.online/start/?product=dev
 
 ### Version Control 📊
 Manage code repositories and development workflows.
