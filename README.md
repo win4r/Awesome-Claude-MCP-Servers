@@ -40,6 +40,7 @@ Access real-time web information and specialized search capabilities.
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📱 ☁️ - Web search via Brave's Search API
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📱 ☁️ - Integration with Kagi search engine
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) 🐍 ☁️ - Research paper search through ArXiv
+- [usenetstate/statsnet-mcp](https://github.com/usenetstate/statsnet-mcp) ☁️ - Background check any company in the world: registration, executives, courts and finances. Remote MCP: https://statsnet.co/mcp
 
 ### Databases 🗄️
 Query and analyze data while maintaining security.
