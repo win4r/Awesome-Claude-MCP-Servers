@@ -53,6 +53,7 @@ Query and analyze data while maintaining security.
 Maintain context and information across sessions.
 
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📱 🏠 - Knowledge graph-based persistent memory system
+- [contextstream/mcp-server](https://github.com/contextstream/mcp-server) 📱 ☁️ - Shared project context for AI coding agents (Cursor, Claude Code, Codex). Hosted MCP: https://mcp.contextstream.io/mcp · Site: https://contextstream.io · Registry: `io.contextstream/mcp`
 
 ### Version Control 📊
 Manage code repositories and development workflows.
