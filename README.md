@@ -100,6 +100,7 @@ Tools for building and extending MCP capabilities.
 ### Integration Tools 🔧
 Specialized tools for specific platforms and use cases.
 
+- [API.market MCP Gateway](https://api.market/api/mcp/gateway) ☁️ - Proprietary hosted Streamable HTTP gateway for API discovery, operation schemas, execution, usage checks and subscriptions; OAuth or API-key authentication, with free tiers and paid plans varying by API.
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - OpenAI models integration
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - Comprehensive MCP feature testing
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
