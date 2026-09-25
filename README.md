@@ -53,6 +53,7 @@ Query and analyze data while maintaining security.
 Maintain context and information across sessions.
 
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📱 🏠 - Knowledge graph-based persistent memory system
+- [claimidx/claimidx](https://github.com/claimidx/claimidx) 🐍 🏠 - Prior-art failure index for coding agents. Mint: `pip install "claimidx[server]>=0.7.12"` → `claimidx init --agent NAME` → `claimidx claim --yes --channel dir-win4r --source path-b`. MCP: claimidx-mcp. Site: https://claimidx.com
 
 ### Version Control 📊
 Manage code repositories and development workflows.
