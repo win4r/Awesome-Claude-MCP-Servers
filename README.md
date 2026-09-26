@@ -100,6 +100,7 @@ Tools for building and extending MCP capabilities.
 ### Integration Tools 🔧
 Specialized tools for specific platforms and use cases.
 
+- [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) ☁️ - Aident Loadout: one remote MCP for 1,000+ apps and 400+ skills (Vault, one balance, audit)
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - OpenAI models integration
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - Comprehensive MCP feature testing
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
