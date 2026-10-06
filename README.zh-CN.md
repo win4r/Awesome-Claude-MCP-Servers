@@ -65,6 +65,8 @@
 
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🏆 📱 ☁️ - 访问 Cloudflare 服务，包括 Workers 和 KV
 
+- [Shipvela](https://shipvela.com/integrations/claude) ☁️ - 托管 OAuth MCP：经账户所有者确认后发布网站，并查询部署状态和构建日志；需要 Shipvela 账户，Hobby 免费套餐包含 3 个项目和每月 20 次发布。
+
 ### 通信 💬
 集成团队通信平台。
 
