@@ -87,6 +87,11 @@
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - 通过 Sentry.io 进行错误跟踪
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - 通过 Raygun 进行崩溃报告
 
+### 金融与市场数据 💹
+访问市场行情、财务数据和机构资金流向，用于分析。
+
+- [Tapetide-hq/nse-bse-indian-stock-market-data-mcp](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) 📱 ☁️ - Tapetide：印度股市（NSE 和 BSE）约 8,200 只股票，52 个工具：实时行情、基本面与技术面筛选、财务报表、FII/DII 资金流向、期权隐含波动率/希腊值、分析师评级、投资组合跟踪，以及可用于回测的时点数据。支持远程 MCP 或 `npx -y tapetide-mcp`
+
 ## 开发工具
 
 ### 框架 🛠️
