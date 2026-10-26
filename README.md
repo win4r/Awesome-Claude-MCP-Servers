@@ -100,6 +100,7 @@ Tools for building and extending MCP capabilities.
 ### Integration Tools 🔧
 Specialized tools for specific platforms and use cases.
 
+- [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) 📱 🏠 - Local stdio MCP payment tools for x402 offer inspection, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only.
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - OpenAI models integration
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - Comprehensive MCP feature testing
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration

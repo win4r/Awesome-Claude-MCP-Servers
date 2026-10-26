@@ -99,6 +99,7 @@
 ### 集成工具 🔧
 针对特定平台和用例的专用工具。
 
+- [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) 📱 🏠 - 本地 stdio MCP 支付工具，用于检查 x402 报价、准备受限支付并查询状态与收据；仅支持 Apple Silicon macOS 和 Node 24。
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - OpenAI 模型集成
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - 全面的 MCP 功能测试
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian 知识库集成
