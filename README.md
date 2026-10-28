@@ -40,6 +40,7 @@ Access real-time web information and specialized search capabilities.
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📱 ☁️ - Web search via Brave's Search API
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📱 ☁️ - Integration with Kagi search engine
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) 🐍 ☁️ - Research paper search through ArXiv
+- [GSCmate](https://gscmate.com) ☁️ - Hosted Google Search Console MCP with OAuth 2.1, read-only Search Analytics, sitemaps, and URL inspection. [Endpoint](https://gscmate.com/mcp); [setup repository](https://github.com/Fushey/gscmate-mcp-listing). Paid plans start at USD 19/month.
 
 ### Databases 🗄️
 Query and analyze data while maintaining security.
