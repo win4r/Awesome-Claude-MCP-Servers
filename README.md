@@ -88,6 +88,11 @@ Track application performance and errors.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
 
+### Business & Sales 💼
+B2B outbound sales automation and CRM integrations.
+
+- [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) 📱 🏠 - Open-source MCP server. Five outbound sales helpers for B2B teams: build an ICP, draft a cold email or LinkedIn message from a buying signal you provide, get a prospect research checklist, score a lead 0-100 against your ICP, and lay out a multi-touch sequence. Works only from what you give it; it does not look anything up or send anything. Install: `npx -y github:verma6uc/mach-gtm-mcp`. MIT.
+
 ## Development Tools
 
 ### Frameworks 🛠️
