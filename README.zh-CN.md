@@ -73,6 +73,7 @@
 ### 浏览器自动化 🌐
 以编程方式访问和处理网页内容。
 
+- [agent-qa](https://vostride.com) 📱 🏠 - Web、Android 和 iOS 自然语言 QA，具备持久 memidex 记忆与经验证的自我改进。[源码](https://github.com/vostride/agent-qa)。
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📱 🏠 - 网页自动化和抓取
 - [@modelcontextprotocol/server-youtube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📱 ☁️ - YouTube 字幕提取
 

@@ -74,6 +74,7 @@ Integrate with team communication platforms.
 ### Browser Automation 🌐
 Access and process web content programmatically.
 
+- [agent-qa](https://vostride.com) 📱 🏠 - Natural-language web, Android and iOS QA with persistent memidex memory and validated self-improvement. [Source](https://github.com/vostride/agent-qa).
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📱 🏠 - Web automation and scraping
 - [@modelcontextprotocol/server-youtube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📱 ☁️ - YouTube subtitle extraction
 
