@@ -103,6 +103,7 @@
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - 全面的 MCP 功能测试
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian 知识库集成
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell 执行和计算机控制
+- [openanysi/openany-mcp](https://github.com/openanysi/openany-mcp) 🏆 🏃 ☁️ - The B2A (business to agent) marketplace。一个 MCP 端点接入 3,200+ API 和 168+ AI 模型。浏览、搜索、查价免费，按次付费。
 
 ## 社区资源
 
