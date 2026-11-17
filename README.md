@@ -83,6 +83,7 @@ Access and process web content programmatically.
 Access geographic and mapping data.
 
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📱 ☁️ - Maps integration for location and routing
+- [No Stairs Please](https://nostairsplease.com/) ☁️ - Remote MCP server (`https://nostairsplease.com/mcp`) for searching small live-music venues across all 50 US states and who books them
 
 ### Monitoring 📈
 Track application performance and errors.
