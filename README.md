@@ -90,6 +90,11 @@ Track application performance and errors.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
 
+### Marketing & Social Media 📣
+Order social media growth services and route them to execution providers.
+
+- [opensmm-protocol/mcp-server](https://github.com/opensmm-protocol/mcp-server) 📱 🏠 - Open, provider-neutral SMM ordering gateway: catalog search, quotes, idempotent orders, provider-node registration
+
 ## Development Tools
 
 ### Frameworks 🛠️

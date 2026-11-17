@@ -87,6 +87,11 @@
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - 通过 Sentry.io 进行错误跟踪
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - 通过 Raygun 进行崩溃报告
 
+### 营销与社交媒体 📣
+通过开放网关订购社交媒体增长服务（粉丝、播放量、互动），并路由到执行供应商。
+
+- [opensmm-protocol/mcp-server](https://github.com/opensmm-protocol/mcp-server) 📱 🏠 - 开放、供应商中立的 SMM 下单网关：目录搜索、报价、幂等订单、供应商节点注册
+
 ## 开发工具
 
 ### 框架 🛠️
