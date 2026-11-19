@@ -78,6 +78,7 @@ Access and process web content programmatically.
 
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📱 🏠 - Web automation and scraping
 - [@modelcontextprotocol/server-youtube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📱 ☁️ - YouTube subtitle extraction
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/youtube-mcp-server) ☁️ - Remote MCP server for YouTube transcripts in any available caption language, plus video search, channel and playlist data
 
 ### Location Services 🗺️
 Access geographic and mapping data.
