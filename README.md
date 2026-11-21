@@ -55,6 +55,7 @@ Query and analyze data while maintaining security.
 Maintain context and information across sessions.
 
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📱 🏠 - Knowledge graph-based persistent memory system
+- [xmcp Docs](https://xmcp.dev/docs/guides/xmcp-mcp-server) 📱 ☁️ - Search and read official xmcp documentation through a public, read-only Streamable HTTP endpoint at `https://xmcp.dev/mcp`; no authentication required.
 
 ### Version Control 📊
 Manage code repositories and development workflows.
