@@ -52,6 +52,7 @@
 跨会话维护上下文和信息。
 
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📱 🏠 - 基于知识图谱的持久记忆系统
+- [Data Olympus](https://github.com/knaisoma/data-olympus) 🐍 🏠 - 面向项目知识治理的 MCP 服务器，支持已审阅规则、提案、有效期窗口和取代感知检索
 
 ### 版本控制 📊
 管理代码仓库和开发工作流。
