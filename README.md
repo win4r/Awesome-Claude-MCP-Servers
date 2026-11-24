@@ -47,6 +47,7 @@ Access real-time web information and specialized search capabilities.
 Query and analyze data while maintaining security.
 
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📱 🏠 - PostgreSQL integration with schema inspection
+- [aqx-shipping-rates-mcp](https://github.com/AQXLOGISTICS/aqx-shipping-rates-mcp) - Real-time international air freight quotes, volumetric weight, and 15-country customs ([OpenAPI 3.0.3](https://aqxlogistics.com/developers)).
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - SQLite operations with analysis features
 
 ## Extended Capabilities
