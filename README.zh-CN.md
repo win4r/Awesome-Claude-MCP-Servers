@@ -52,6 +52,7 @@
 跨会话维护上下文和信息。
 
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📱 🏠 - 基于知识图谱的持久记忆系统
+- [maxbaluev/accreted-intelligence](https://github.com/maxbaluev/accreted-intelligence) 🏠 - 面向 Claude 和编码代理的本地优先 Work Model 记忆，通过 `acc_retrieve` 和 `acc_act` 提供评分检索与结果归因操作
 
 ### 版本控制 📊
 管理代码仓库和开发工作流。
