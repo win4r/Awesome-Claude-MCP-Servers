@@ -95,6 +95,7 @@
 - [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📱 - Genkit 和 MCP 的集成
 - [@modelcontextprotocol/server-langchain](https://github.com/rectalogic/langchain-mcp) 🐍 - MCP 工具的 LangChain 集成
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 🏃 - MCP 开发的 Go SDK
+- [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 🐍 🏠 - EdgeOne Pages 集成 MCP 快捷生成在线网页
 
 ### 集成工具 🔧
 针对特定平台和用例的专用工具。
