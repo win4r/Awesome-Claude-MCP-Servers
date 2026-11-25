@@ -76,6 +76,11 @@
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📱 🏠 - 网页自动化和抓取
 - [@modelcontextprotocol/server-youtube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📱 ☁️ - YouTube 字幕提取
 
+### 创意与媒体 🎨
+通过本地创意工具编排和处理媒体。
+
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) 📱 🏠 - 可从源码安装，通过可编辑时间线完成视频编排、剪辑、生成与组装
+
 ### 位置服务 🗺️
 访问地理和地图数据。
 
