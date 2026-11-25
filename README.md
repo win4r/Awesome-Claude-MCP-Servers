@@ -90,6 +90,11 @@ Track application performance and errors.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
 
+### Workflow Automation ⚙️
+Automate complex workflows and integrate with automation platforms.
+
+- [danishashko/make-mcp](https://github.com/danishashko/make-mcp) 📱 ☁️ - Unofficial Make.com MCP server with 200+ modules, auto-healing, and router support
+
 ## Development Tools
 
 ### Frameworks 🛠️
@@ -111,3 +116,4 @@ Specialized tools for specific platforms and use cases.
 
 Want to ask Claude about Model Context Protocol? Add this file to your project:
 [Claude MCP Instructions](https://raw.githubusercontent.com/win4r/Awesome-Claude-MCP-Servers/refs/heads/main/llms-full.txt)
+
