@@ -1,5 +1,3 @@
-# [🚀观看我的哔哩哔哩视频](https://space.bilibili.com/3493277319825652)
-
 # Awesome Claude MCP Servers 🤖 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [中文版](./README.zh-CN.md) | English
 
