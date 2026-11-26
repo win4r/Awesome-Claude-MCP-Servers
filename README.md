@@ -88,6 +88,12 @@ Track application performance and errors.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
 
+### Financial Data & Market Intelligence 💹
+Real-time market data, crypto analytics, and financial intelligence.
+
+- [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) 💱 ☁️ - 205 pay-per-call financial tools via x402 micropayments — stocks, crypto/DeFi, macro data, options chains, on-chain analytics, and 200+ more. No API keys required. USDC on Base.
+
+
 ## Development Tools
 
 ### Frameworks 🛠️
@@ -109,3 +115,4 @@ Specialized tools for specific platforms and use cases.
 
 Want to ask Claude about Model Context Protocol? Add this file to your project:
 [Claude MCP Instructions](https://raw.githubusercontent.com/win4r/Awesome-Claude-MCP-Servers/refs/heads/main/llms-full.txt)
+
