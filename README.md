@@ -53,6 +53,7 @@ Query and analyze data while maintaining security.
 Maintain context and information across sessions.
 
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📱 🏠 - Knowledge graph-based persistent memory system
+- [Enhanciar](https://github.com/enhanciar/enhanciar-mcp) ☁️ - Hosted remote MCP server for a team knowledge base. Ask questions from Claude or Cursor and get cited answers from Slack, Gmail, Notion, Drive and GitHub
 
 ### Version Control 📊
 Manage code repositories and development workflows.
