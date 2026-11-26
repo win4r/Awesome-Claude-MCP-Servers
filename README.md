@@ -66,6 +66,8 @@ Interact with cloud infrastructure services.
 
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🏆 📱 ☁️ - Access to Cloudflare services including Workers and KV
 
+- [Shipvela](https://shipvela.com/integrations/claude) ☁️ - Hosted OAuth MCP for owner-approved website publishing, deployment status and build logs; account required, Hobby includes 3 projects and 20 monthly publishes.
+
 ### Communication 💬
 Integrate with team communication platforms.
 
