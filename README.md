@@ -104,6 +104,7 @@ Specialized tools for specific platforms and use cases.
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - Comprehensive MCP feature testing
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
+- [GeminiGeorge22/fmf-tools](https://github.com/GeminiGeorge22/fmf-tools) ☁️ - Catalog of remote MCP servers and pay-per-call APIs for agents
 
 ## Community Resources
 
