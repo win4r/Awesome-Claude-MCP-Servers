@@ -104,6 +104,7 @@ Specialized tools for specific platforms and use cases.
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📱 🏠 - Comprehensive MCP feature testing
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
+- [OneResume](https://oneresume.ai/connect-your-ai) ☁️ - Job search from your résumé profile: live job search ranked by match, fact-checked résumé tailoring, cover letters, hiring-manager outreach drafts and an application tracker (remote server, OAuth)
 
 ## Community Resources
 
