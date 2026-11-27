@@ -70,6 +70,7 @@ Interact with cloud infrastructure services.
 Integrate with team communication platforms.
 
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📱 ☁️ - Slack workspace and channel management
+- [BulkPublish MCP](https://app.bulkpublish.com/docs) 📱 ☁️ - Create, adapt, schedule, publish, and analyze social media content across connected channels through a hosted Streamable HTTP MCP server or local npm package
 
 ### Browser Automation 🌐
 Access and process web content programmatically.
