@@ -1,4 +1,5 @@
 # Awesome Claude MCP Servers 🤖 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) - All-in-one offensive security, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, and 29-protocol network enumeration MCP server (160 tools; zero-install Streamable HTTP at `https://mcp.insom.ai/mcp` + `npx`/`uvx` bridge, 50 free credits).
 [中文版](./README.zh-CN.md) | English
 
 A curated list of Model Context Protocol (MCP) servers optimized for Claude and other AI assistants.
